@@ -19,7 +19,7 @@ const Home = () => {
   return (
     <Base>
       <h1>
-     Aplicação React Base
+     Aplicação React Base Modificada por Pedro de Castro Kurtz
       </h1>
     </Base>
   )

@@ -4,8 +4,8 @@ import { Top } from "./Style";
 const Header = () => (
   <Top>
     <Link to="/">Home</Link>
-    <Link to="/fotos">Fotos</Link>
-    <Link to="/atletas">Atletas</Link>
+    <Link to="/fotos">Photos</Link>
+    <Link to="/atletas">Athlets</Link>
     
     { window.sessionStorage.getItem('accessToken')
     ? <Link to="/logout">Logout</Link>

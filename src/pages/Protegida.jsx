@@ -4,7 +4,7 @@ import Base from "./Base";
 const Protegida = (props) => {
   const Conteudo = () => (
     <>
-    <h1>Página Protegida</h1>
+    <h1>Página Bloqueada</h1>
     <Link to="/login">Login</Link>
     </>
   )
