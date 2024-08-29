@@ -44,3 +44,8 @@ build
 # ignora arquivo .env (environment variables)
 .env
 .env*
+
+# ignora os arquivos de mp3
+.mp3
+.mp3*
+*.mp3
